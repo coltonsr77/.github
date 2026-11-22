@@ -13,7 +13,7 @@ Welcome to my GitHub! I specialize in building **Discord Bots** using **Node.js*
 
 ### 🌟 Featured Project
 
-#### [Uzi-Discord-Bot](https://github.com/coltonsr77/Uzi-Discord-Bot)
+#### [Uzi-Doorman-Bot](https://github.com/coltonsr77/Uzi-Doorman-Bot)
 This bot roleplays as **Uzi Doorman** from *Murder Drones*!  
 I update this bot daily with new patches and features, so check back often to see what’s new!
 
