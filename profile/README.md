@@ -21,7 +21,7 @@ I update this bot daily with new patches and features, so check back often to se
 
 ### 📦 Other Projects
 - [coltonsr77.net](https://github.com/coltonsr77/coltonsr77.net): Website of my projects
-- [remix-service](https://github.com/coltonsr77/remix-service): A remix server of WebTV
+- [remix-service](https://github.com/DevTools77/remix-service): A remix server of WebTV
 - [TeleBlueUI](https://github.com/coltonsr77/TeleBlueUI): A UI of TeleBlue
 - [WebTV-HD-Updated](https://github.com/coltonsr77/WebTV-HD-Updated): A Updated version of WebTV-HD
 
