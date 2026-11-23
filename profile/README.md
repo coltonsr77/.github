@@ -1,8 +1,8 @@
 # Hi, I'm Colton! 👋
 
-## 🚀 Discord Bot Developer
+## 🚀 Website Creator
 
-Welcome to my GitHub! I specialize in building **Discord Bots** using **Node.js**. Whether it's automation, moderation, or custom features, I'm passionate about making Discord communities better.
+Welcome to my GitHub! I specialize in building **Websites** using **HTML**.
 
 ---
 
